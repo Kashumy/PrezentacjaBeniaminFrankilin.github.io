@@ -40,7 +40,43 @@ h6{
 }
 .ok{
 	position: absolute ;
-	top:2000px;
+	top:3500px;
 	left: 10px;
  width: 400px
+}
+h15{
+	position :absolute ;
+	font-size :40px;
+	color: lime;
+	background :black;
+	top:3300px;
+}
+h7{
+	position: absolute;
+	top:2500px;
+	color: #48FFC8
+}
+canvas{
+	background :#404040;
+	position :absolute ;
+	top:2550px;
+}
+.b1{
+	position :absolute ;
+	top:2930px;
+	left:200px;
+}
+.b2 {
+	position: absolute;
+	top: 2930px;
+	left: 240px;
+}
+
+.b3 {
+	position: absolute;
+	top: 2930px;
+	left: 280px;
+}
+canvas-text{
+	color:white ;
 }
