@@ -1,0 +1,46 @@
+body{
+	background-image: url('./Untitled90_20221204112830.png ');
+	background-repeat: repeat ;
+	background-size: 999px;
+}
+h1{
+	color: coral;
+	font-size :100px;
+}
+h2{
+	color:#482E4F;
+	transition-delay :9s;
+}
+h2:hover{
+	color: #58FF00;
+}
+.btn1{
+	background :#000646 ;
+	color :#004638;
+	transition-duration :1s;
+}
+.btn1:hover{
+	background :#00096D;
+	color:#04E8FF;
+}
+h3{
+	color: #350D40;
+
+}
+h3:hover{
+	color:#000000;
+}
+h5{
+	font-size :30px;
+}
+h6{
+	font-size :50px;
+	background :#000433;
+	color: #00E2FF;
+}
+.ok{
+	position: absolute ;
+	top:2000px;
+	left: 10px;
+ width: 400px
+}
