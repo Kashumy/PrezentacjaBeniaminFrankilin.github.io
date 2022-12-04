@@ -63,9 +63,9 @@ context.fillText
 ('które wynalazł Ben.Franklin' , 10, 80);
 } 
 function draw2(){
-	context2.font = "15px Arial";
+	context2.font = "10px Arial";
 context2.fillText
-('<  odp.piorunochron, > ' , 10, 110);
+('<  odp.piorunochron,Dzwoneczki Franklina > ' , 10, 110);
 context2.fillText('Zad 2 co dowiódł Benjamin na temat Pioruna ' , 10, 140);
 }
 function draw3(){
